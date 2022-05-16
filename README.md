@@ -12,7 +12,7 @@ You can test this out here > https://objective-hermann-09f7df.netlify.app
 6. Delete and complete buttons are on the right.
 7. You can undo or reset “priority” when you hit the 'shift+enter' keys together in edit mode.
 8. You can filter by completion status or view all.
-9. When all tasks are completed, a cute puppy picture appears!
+9. When all tasks are completed, a cute puppy picture appears.
 
 
 # Getting Started with Create React App
